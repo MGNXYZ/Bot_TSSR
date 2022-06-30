@@ -101,4 +101,4 @@ class MyClient(discord.Client):
             await message.reply(embed=embed)
         
 client = MyClient()
-client.run('OTkxOTk4NDQ2MjY3NTQzNjEy.GmAhpv.vz1wdnGdsNzi43q1dJw4O8xBPQqhL4Z7SWnxV8')
+client.run('TOKEN')
